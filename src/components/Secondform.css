@@ -1,0 +1,27 @@
+.input3 {
+    margin-top: 50px;
+    /*padding: 10px 100px;*/
+    border-radius: 25px 25px 25px 25px;
+    width: 30%;
+    height: 45px;
+    font-size: 13px;
+    padding-left: 10px;
+
+}
+.input4 {
+    padding: 18px 20px;
+    background-color: #424141;
+    color: #fff;
+    border-radius: 0 25px  25px 0;
+    border: #424141;
+}
+.input5 {
+    
+    padding: 17px 50px;
+    position: relative;
+    top: 50px;
+    background-color: #424141;
+    border: #424141;
+    color: #fff;
+    border-radius: 25px;
+}

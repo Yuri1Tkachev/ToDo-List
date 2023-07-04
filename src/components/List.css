@@ -1,0 +1,20 @@
+.txt1 {
+    padding: 10px;
+    font-size: 20px;
+    text-align: left;
+    border: 1px solid #424141;
+    width: 10%;
+    margin-right: 5%;
+}
+.del_button {
+    font-size: 13px;
+    padding: 15px 35px;
+    background-color: #424141;
+    border-radius: 25px;
+    color: #fff;
+    border: none;
+}
+.main {
+    display: flex;
+    flex-shrink: inherit;
+}
